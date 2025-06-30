@@ -43,7 +43,7 @@ API=https://jsonplaceholder.typicode.com
 
 ### Client-side (Next.js)
 
-Create a `.env.local` file in your Next.js project:
+Create a `.env` file in your Next.js project:
 
 ```
 NEXT_PUBLIC_BACKEND_URI=http://localhost:8000/graphql
