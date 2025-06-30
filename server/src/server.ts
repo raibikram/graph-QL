@@ -3,7 +3,7 @@ import { ApolloServer } from "@apollo/server";
 import { expressMiddleware } from "@apollo/server/express4";
 import cors from "cors";
 import { configDotenv } from "dotenv";
-import { API } from "./utils/api";
+import { API } from "./utils/api.js";
 
 configDotenv();
 

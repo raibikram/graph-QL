@@ -114,6 +114,20 @@ Or fetch todos along with the user's name:
 
 ---
 
+
+## Expected Output
+
+The Next.js frontend will display a table with todos data including:
+
+- **S.N** (Serial Number)
+- **Title** (Todo title from the API)  
+- **User Name** (Associated user name)
+
+![Application Output](./output.png)
+
+*Screenshot showing the todos table with data fetched via GraphQL*
+
+---
 ## Learn More
 
 - [GraphQL Official Documentation](https://graphql.org/learn/)
